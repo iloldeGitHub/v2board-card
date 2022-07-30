@@ -2,7 +2,7 @@ package database
 
 import (
 	"fmt"
-	"github.com/miyaUU/v2board-card/config"
+	"github.com/iloldeGitHub/v2board-card/config"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"

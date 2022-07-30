@@ -3,9 +3,9 @@ package routes
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/miyaUU/v2board-card/config"
-	"github.com/miyaUU/v2board-card/controller"
-	"github.com/miyaUU/v2board-card/middleware"
+	"github.com/iloldeGitHub/v2board-card/config"
+	"github.com/iloldeGitHub/v2board-card/controller"
+	"github.com/iloldeGitHub/v2board-card/middleware"
 )
 
 func RunRoute() {

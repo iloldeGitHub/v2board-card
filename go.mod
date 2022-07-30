@@ -1,4 +1,4 @@
-module github.com/miyaUU/v2board-card
+module github.com/iloldeGitHub/v2board-card
 
 go 1.17
 

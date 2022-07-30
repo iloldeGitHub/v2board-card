@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/miyaUU/v2board-card/database"
-	"github.com/miyaUU/v2board-card/routes"
+	"github.com/iloldeGitHub/v2board-card/database"
+	"github.com/iloldeGitHub/v2board-card/routes"
 )
 
 func main() {
